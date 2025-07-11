@@ -1,5 +1,5 @@
 # About
-"Generic Object Detection" is a software program designed by three students from the Universidad Católica del Uruguay as part of the Integrated Technology Workshop program, their second project.
+"Generic Object Detection" is a software program designed by three students from the 'Universidad Católica del Uruguay' as part of the Integrated Technology Workshop program, their second project.
 
 This software was initially developed for the identification of plastic bottles. We then modified the program to make it easy for any user to use. Simply train a YOLO model (in our case, we used Yolov8) and place the best.pt file in the model folder.
 
